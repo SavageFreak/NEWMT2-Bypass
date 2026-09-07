@@ -21,7 +21,8 @@ It is designed to provide a simple interface for launching and managing the game
 1. Download the latest `.zip` package.
 2. Extract the archive.
 3. Keep the included runtime files together.
-4. Run `panel.exe`.
+4. put CShield.dll in C:/NEWMT2
+5. Run `panel.exe`.
 
 ---
 
@@ -46,4 +47,5 @@ It is designed to provide a simple interface for launching and managing the game
 1. Κατέβασε το τελευταίο `.zip` package.
 2. Κάνε extract το archive.
 3. Κράτησε μαζί όλα τα runtime αρχεία που περιλαμβάνονται.
-4. Τρέξε το `panel.exe`.
+4. Βαλε το αρχειο CShield.dll στον φακελο C:/NEWMT2
+5. Τρέξε το `panel.exe`.
